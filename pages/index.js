@@ -1,5 +1,3 @@
-/** @jsxImportSource @emotion/react */
-
 import { css } from "@emotion/react"
 import { mq } from '../emotionconf'
 import styled from '@emotion/styled'
